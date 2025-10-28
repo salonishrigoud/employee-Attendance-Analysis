@@ -2,7 +2,7 @@
 # Employee Attendance & Work Mode Insights Dashboard (Power BI)
 
 This project analyzes employee attendance behavior including presence percentage, Work-From-Home trends, and sick leave patterns across multiple months. The dashboard provides workforce insights to support HR decision-making and improve workplace planning.
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](dashboard.png)
 
 ## 📊 Project Overview
 
